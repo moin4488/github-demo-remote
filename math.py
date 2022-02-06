@@ -12,4 +12,4 @@ def mul(x,y):
     
 #div method
 def div(x,y):
-    pass
+    return x/y
